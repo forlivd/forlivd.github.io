@@ -1,7 +1,7 @@
 ---
 title: "첫 블로그 포스팅"
 excerpt: "블로그를 개설하였다! 재밌다. ㅎㅎ"
-
+image: city-1.jpg
 categories:
   - Blog
 tags:
