@@ -7,6 +7,7 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
+- {name: 'Android',  url: 'android'}
 - {name: 'Interesting Facts',  url: 'facts'}
 - {name: 'Learning Resources', url: 'resources'}
 - {name: 'Sample Posts',       url: 'sample-posts'}
