@@ -10,9 +10,11 @@ permalink: /:title
 plugins: [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title: "Millennial"
-description: "a minimalist Jekyll theme for running a blog or publication"
-author: "Paul Le"
+title: "JH's Blog"
+subtitle: "Record My Studies of Programming"
+email: forlivd@gmail.com
+description: "I'm writing it down ..."
+author: "JH"
 
 baseurl: ""
 url: "https://forlivd.github.io"
