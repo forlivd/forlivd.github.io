@@ -8,9 +8,6 @@ image: start-up_picpedia_CCBYSA.PNG
 ---
 ###### [Nick Youngson](https://www.picpedia.org/chalkboard/s/start-up.html)/[CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/)
 
-<span style="color:gray">[Nick Youngson](https://www.picpedia.org/chalkboard/s/start-up.html)/[CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/)</span>
-   
-   <br/>
 ## 축! 블로그 첫 포스팅!
 
    <br/>
