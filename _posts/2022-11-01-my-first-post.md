@@ -6,22 +6,7 @@ categories: til
 tags: [android, sample]
 image: start-up_picpedia_CCBYSA.PNG
 ---
-[Nick Youngson](https://www.picpedia.org/chalkboard/s/start-up.html)/[CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/)
-
-<cite>Steve Jobs</cite> --- Apple Worldwide Developers' Conference, 1997
-{: .small}
-
-Steve Jobs --- Apple Worldwide Developers' Conference, 1997
-{: .small}
-
-<cite>Steve Jobs</cite> Apple Worldwide Developers' Conference, 1997
-{: .small}
-
-[Nick Youngson](https://www.picpedia.org/chalkboard/s/start-up.html)/[CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/)
-{: .small}
-
-<cite>[Nick Youngson](https://www.picpedia.org/chalkboard/s/start-up.html)</cite>/[CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/)
-{: .small}
+###### [Nick Youngson](https://www.picpedia.org/chalkboard/s/start-up.html)/[CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/)
 
 
    <br/>
