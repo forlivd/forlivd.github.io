@@ -4,7 +4,7 @@ title: "첫 블로그 포스팅"
 author: "forlivd"
 categories: til
 tags: [android, sample]
-image: ![image](https://user-images.githubusercontent.com/84622281/202060710-9fe5ba03-d7e3-40d0-9ace-ec659c286233.png)
+image: start-up_picpedia_CCBYSA.PNG
 ---
 
    <br/>
