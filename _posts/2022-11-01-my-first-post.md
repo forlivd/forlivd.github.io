@@ -2,7 +2,7 @@
 layout: post
 title: "첫 블로그 포스팅"
 author: "forlivd"
-categories: android
+categories: til
 tags: [android, sample]
 image: city-1.jpg
 ---
