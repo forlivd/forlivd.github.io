@@ -35,7 +35,7 @@ image: city-1.jpg
    서버에서 페이징 된 데이터를 받아와 Paging3로 안드로이드에서 띄워주었다.
 
    LiveData를 쓸 때와는 다른 점이 많다. (클린 아키텍쳐의 적용도 한몫했지만..)
-   cachedIn 된 flow 데이터를 Fragment에서 직접 관찰하게 한다.
+   cachedIn 된 flow 데이터를 Fragment에서 관찰하게 한다.
 
    _todo : 클린 아키텍쳐에서는 어느 위치에서 chchedIn된 데이터를 생성해야 할지 좀 더 고민이 필요하다._
 
