@@ -2,8 +2,8 @@
 layout: post
 title: "Getting Started"
 author: "Paul Le"
-categories: documentation
-tags: [documentation,sample]
+categories: android
+tags: [documentation, sample]
 image: city-1.jpg
 ---
 
@@ -17,17 +17,17 @@ If you like my work then please consider supporting me with [Ko-fi](https://ko-f
 
 ## Notable features
 
-* Compatible with GitHub Pages.
+- Compatible with GitHub Pages.
 
-* Support for Jekyll's built-in Sass/SCSS preprocessor and data files for making customizing easier.
+- Support for Jekyll's built-in Sass/SCSS preprocessor and data files for making customizing easier.
 
-* [Google Analytics](https://www.google.com/analytics/) support.
+- [Google Analytics](https://www.google.com/analytics/) support.
 
-* Commenting support powered by [Disqus](https://disqus.com/).
+- Commenting support powered by [Disqus](https://disqus.com/).
 
-* Optimized for search engines.
+- Optimized for search engines.
 
-* LaTeX support through [MathJax](https://www.mathjax.org/).
+- LaTeX support through [MathJax](https://www.mathjax.org/).
 
 ## Table of Contents
 
@@ -195,11 +195,11 @@ RSS 2.0 is also supported through [RSS auto-discovery](http://www.rssboard.org/r
 
 To use RSS 2.0, ensure the following is done:
 
-* Uncomment the last two lines in the `_config.yml` file.
+- Uncomment the last two lines in the `_config.yml` file.
 
-* In `_data/settings.yml`, under 'social', comment out the rss-square that points to `feed.xml`, and uncomment the rss-square that points to `rss-feed.xml`.
+- In `_data/settings.yml`, under 'social', comment out the rss-square that points to `feed.xml`, and uncomment the rss-square that points to `rss-feed.xml`.
 
-* In `_includes/head.html`, comment out `{% feed_meta %}` and uncomment the line under the RSS 2.0 comment.
+- In `_includes/head.html`, comment out `{% feed_meta %}` and uncomment the line under the RSS 2.0 comment.
 
 ### Social Media Icons
 
@@ -222,7 +222,7 @@ As always, Jekyll offers support for GitHub Flavored Markdown, which allows you 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-gh]: https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
 
 ## Contributing
@@ -233,7 +233,7 @@ Millennial has been designed as a base for users to customize and fit to their o
 
 ## Questions?
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
 
 ## Credits
 
@@ -241,37 +241,37 @@ This theme is completely free and open source software. You may use it however y
 
 #### Paul Le
 
-* [www.lenpaul.com](http://lenpaul.com)
+- [www.lenpaul.com](http://lenpaul.com)
 
-* [Twitter](https://twitter.com/paululele)
+- [Twitter](https://twitter.com/paululele)
 
-* [GitHub](https://github.com/LeNPaul)
+- [GitHub](https://github.com/LeNPaul)
 
 ### Contributors
 
-* [b-morawiec](https://github.com/b-morawiec)
+- [b-morawiec](https://github.com/b-morawiec)
 
-* [JainVikas](https://github.com/JainVikas)
+- [JainVikas](https://github.com/JainVikas)
 
-* [mschaeffner](https://github.com/mschaeffner)
+- [mschaeffner](https://github.com/mschaeffner)
 
-* [cfe316](https://github.com/cfe316)
+- [cfe316](https://github.com/cfe316)
 
-* [JeremyGonzales](https://github.com/JeremyGonzales)
+- [JeremyGonzales](https://github.com/JeremyGonzales)
 
 ### Icons + Demo Images
 
-* [Death to Stock](https://deathtothestockphoto.com/)
+- [Death to Stock](https://deathtothestockphoto.com/)
 
-* [Font Awesome](http://fontawesome.io/)
+- [Font Awesome](http://fontawesome.io/)
 
 ### Other
 
-* [Jekyll](https://jekyllrb.com/)
+- [Jekyll](https://jekyllrb.com/)
 
-* [Free Code Camp](https://www.freecodecamp.org)
+- [Free Code Camp](https://www.freecodecamp.org)
 
-* [Khan Academy](https://www.khanacademy.org/)
+- [Khan Academy](https://www.khanacademy.org/)
 
 ## License
 
